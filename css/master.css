@@ -27,14 +27,14 @@ padding-top:30px;
 nav{
   height: 50px;
   width: 100%;
-  background-color:#00f3
+  background-color:#7f817e
 
 }
 
 main{
   height: 450px;
   width: 60%;
-  background-color:#00d2
+  background-color:#7f817e
 
 }
 
@@ -42,14 +42,14 @@ aside{
   left: 600px;
   height: 450px;
   width: 40%;
-  background-color:#00f1
+  background-color:#7f817e
 
 }
 
 footer{
 height: 100px;
 width: 100%;
-background-color:#00F9
+background-color:#7f817e
 
 }
 
@@ -67,6 +67,7 @@ a {
   font-size:30px
 }
 #green{
-color:green;
+color:#0df23a;
+
 
 }
